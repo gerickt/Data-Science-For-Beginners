@@ -151,9 +151,9 @@ Si queremos complicarnos aún más, podemos representar el tiempo que se tarda e
 
 En este reto, trataremos de encontrar conceptos relevantes para el campo de la Ciencia de los Datos a través de textos.  Tomaremos un artículo de Wikipedia sobre la Ciencia de los Datos, descargaremos y procesaremos el texto, y luego construiremos una nube de palabras como esta:
 
-![Word Cloud para ciencia de datos](images/ds_wordcloud.png)
+![Word Cloud para ciencia de datos](../images/ds_wordcloud.png)
 
-Visite [`notebook.ipynb`](notebook.ipynb) para leer el código.  También puedes ejecutar el código y ver cómo realiza todas las transformaciones de datos en tiempo real. 
+Visite [`notebook.ipynb`](../notebook.ipynb) para leer el código.  También puedes ejecutar el código y ver cómo realiza todas las transformaciones de datos en tiempo real. 
 
 > Si no sabe cómo ejecutar código en un "jupyter notebook", eche un vistazo a [este artículo](https://soshnikov.com/education/how-to-execute-notebooks-from-github/).
 
